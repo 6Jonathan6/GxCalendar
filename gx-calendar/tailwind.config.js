@@ -1,7 +1,13 @@
 module.exports = {
   theme: {
-    extend: {}
+    borderRadius: {
+      'default': '1rem'
+    },
+    extend: {
+    }
   },
-  variants: {},
+  variants: {
+
+  },
   plugins: []
 }
